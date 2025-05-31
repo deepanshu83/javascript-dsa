@@ -1,3 +1,4 @@
 # javascript-dsa
-i started dsa on 25 may 2025 in javascript in the journey of mern stack development.
-i will try to consistent in this journey 
+firsti start dsa with javascript ten i relaize that it is not much impactfull to 
+doing with javascript so i am switching with c++ ,
+so i left dsa with javascript .
